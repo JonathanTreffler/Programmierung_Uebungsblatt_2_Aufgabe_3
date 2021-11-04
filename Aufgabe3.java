@@ -7,9 +7,9 @@ class Aufgabe3 {
         int days = SimpleIO.getInt("Bitte geben Sie die Anzahl an Tagen ein");
 
         if(!Helpers.validDate(day, month, year)) {
-            System.out.println("Eingegebenes Datum ungültig ! Berechnung abgeborchen.");
+            System.out.println("Eingegebenes Datum ungueltig ! Berechnung abgeborchen.");
         } else if(days < 1) {
-            System.out.println("Anzahl der Tage ungültig ! Berechnung abgeborchen.");
+            System.out.println("Anzahl der Tage ungueltig ! Berechnung abgeborchen.");
         } else {
             Helpers.printDate("Eingegbenes Datum: ", day, month, year);
 
