@@ -1,1 +1,1 @@
-# Programmierung_Uebungsblatt_2_Aufgabe_3
+# Programmierung_Übungsblatt_2_Aufgabe_3
