@@ -1,3 +1,6 @@
+tasks:
+  - init: javac Aufgabe3.java
+    command: java Aufgabe3
 
 vscode:
   extensions:
